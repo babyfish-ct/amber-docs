@@ -401,7 +401,7 @@ Both of them contain two modules: corea sql.
 1. core means kimmer-core and jimmer-core, it's immutable object tool
 2. sql means kimmer-sql and jimmer-sql(not finished), it's ORM for immutable objects.
 
-Here, core(kimmer-core and jimmer-core) is related to the topic we are discussing is the core module. 
+Here, core(include kimmer-core and jimmer-core) is related to the topic we are discussing. 
 
 Please view the article: https://github.com/babyfish-ct/jimmer/blob/main/doc/jimmer-core/README.md to know more.
 
